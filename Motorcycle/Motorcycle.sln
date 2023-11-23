@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MotorcycleGame", "MotorcycleGame\MotorcycleGame.csproj", "{B95E2FA0-6566-4B94-BF80-99F0B0D43E18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotorcycleTest", "MotorcycleTest\MotorcycleTest.csproj", "{D1039F39-A8FB-4FC6-814A-D68ADD8C4118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B95E2FA0-6566-4B94-BF80-99F0B0D43E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95E2FA0-6566-4B94-BF80-99F0B0D43E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95E2FA0-6566-4B94-BF80-99F0B0D43E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95E2FA0-6566-4B94-BF80-99F0B0D43E18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1039F39-A8FB-4FC6-814A-D68ADD8C4118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1039F39-A8FB-4FC6-814A-D68ADD8C4118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1039F39-A8FB-4FC6-814A-D68ADD8C4118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1039F39-A8FB-4FC6-814A-D68ADD8C4118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B909526-70A0-45AF-92D6-EA9DFB2CF603}
+	EndGlobalSection
+EndGlobal
